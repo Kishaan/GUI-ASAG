@@ -16,7 +16,7 @@ sudo apt install nodejs-legacy
 
 * Put the notebook files with the student answers in the 'dataset' folder
 * Update the path accordingly
-* Set the machine learning model and the query strategy which were used here from the [modAL] (https://modal-python.readthedocs.io/en/latest/) framework.
+* Set the machine learning model and the query strategy which were used here from the [modAL](https://modal-python.readthedocs.io/en/latest/) framework.
 
 How to run:
 
